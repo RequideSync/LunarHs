@@ -1,4 +1,4 @@
-# 🌙 LunarHs-like Key System - Documentation
+# 🌙 LunarHs - Documentation
 
 A minimal, developer-friendly key authentication site for Roblox scripts.
 
